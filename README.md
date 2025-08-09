@@ -11,4 +11,4 @@ This platform combines theory, animations, examples, and exercises with instant 
 
 [This video explains Markdown](https://www.youtube.com/watch?v=asHhuHRxhvo&t=110s)
 
-- [A diagram of the eye](/Users/jilly/OneDrive/AI powered Physics LMS/Eye_diagram.jpg)
+- [A diagram of the eye](Eye_diagram.jpg)
